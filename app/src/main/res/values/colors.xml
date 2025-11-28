@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de Patatas Fritas Sandra -->
+    <color name="sandra_green">#006442</color>
+    <color name="sandra_gold">#FCD116</color>
+    <color name="sandra_white">#FFFFFF</color>
+    <color name="sandra_black">#000000</color>
+    <color name="sandra_background">#F7F7F7</color> 
+</resources>
